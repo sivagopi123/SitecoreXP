@@ -54,7 +54,7 @@
     <PackageReference Include="netDumbster" Version="2.0.0.2" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
     <PackageReference Include="NSubstitute" Version="3.1.0" />
-    <PackageReference Include="SharpZipLib" Version="0.86.0" />
+    <PackageReference Include="SharpZipLib" Version="1.3.3" />
     <PackageReference Include="Sitecore.FakeDb" Version="1.7.2" />
     <PackageReference Include="Sitecore.FakeDb.AutoFixture" Version="1.7.2" />
     <PackageReference Include="Sitecore.FakeDb.NSubstitute" Version="1.7.2" />
